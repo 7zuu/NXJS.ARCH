@@ -1,2 +1,1 @@
-806 pull requests merged<br>Currently:<br>![pull-shark](images/pull-shark-silver.png)
-<!-- Change 807 -->
+807 pull requests merged<br>Currently:<br>![pull-shark](images/pull-shark-silver.png)
