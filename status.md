@@ -1,2 +1,1 @@
-5 pull requests merged<br>Currently:<br>![pull-shark](images/pull-shark-default.png)
-<!-- Change 6 -->
+6 pull requests merged<br>Currently:<br>![pull-shark](images/pull-shark-default.png)
